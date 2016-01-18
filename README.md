@@ -70,7 +70,7 @@ http://docs.puppetlabs.com/pe/latest/regenerate_certs_master.html
 1. Install Gitlab
  - https://about.gitlab.com/downloads/
 
-2. After Gitlab is installed you may sign if with the `root` user and password `5iveL!fe`
+2. After Gitlab is installed you may sign in with the user `root` and password `5iveL!fe`
 
 3. Make an user for yourself
 
